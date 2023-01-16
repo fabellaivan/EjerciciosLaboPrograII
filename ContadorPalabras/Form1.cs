@@ -84,6 +84,10 @@ namespace ContadorPalabras
             return sb.ToString();
         }
 
+        private void rchTextIn_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

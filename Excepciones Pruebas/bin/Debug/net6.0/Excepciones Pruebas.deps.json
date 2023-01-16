@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Excepciones Pruebas/1.0.0": {
+        "dependencies": {
+          "BibliotecaExcepciones": "1.0.0"
+        },
+        "runtime": {
+          "Excepciones Pruebas.dll": {}
+        }
+      },
+      "BibliotecaExcepciones/1.0.0": {
+        "runtime": {
+          "BibliotecaExcepciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Excepciones Pruebas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaExcepciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

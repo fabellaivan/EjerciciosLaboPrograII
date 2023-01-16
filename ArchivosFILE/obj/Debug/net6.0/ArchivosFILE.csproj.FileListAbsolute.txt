@@ -1,0 +1,15 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosFILE\bin\Debug\net6.0\ArchivosFILE.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosFILE\bin\Debug\net6.0\ArchivosFILE.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosFILE\bin\Debug\net6.0\ArchivosFILE.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosFILE\bin\Debug\net6.0\ArchivosFILE.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosFILE\bin\Debug\net6.0\ArchivosFILE.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosFILE\obj\Debug\net6.0\ArchivosFILE.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosFILE\obj\Debug\net6.0\ArchivosFILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosFILE\obj\Debug\net6.0\ArchivosFILE.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosFILE\obj\Debug\net6.0\ArchivosFILE.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosFILE\obj\Debug\net6.0\ArchivosFILE.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosFILE\obj\Debug\net6.0\ArchivosFILE.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosFILE\obj\Debug\net6.0\refint\ArchivosFILE.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosFILE\obj\Debug\net6.0\ArchivosFILE.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosFILE\obj\Debug\net6.0\ArchivosFILE.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosFILE\obj\Debug\net6.0\ref\ArchivosFILE.dll

@@ -1,0 +1,18 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\Estadistica deportiva\bin\Debug\net6.0\Estadistica deportiva.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\Estadistica deportiva\bin\Debug\net6.0\Estadistica deportiva.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Estadistica deportiva\bin\Debug\net6.0\Estadistica deportiva.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Estadistica deportiva\bin\Debug\net6.0\Estadistica deportiva.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Estadistica deportiva\bin\Debug\net6.0\Estadistica deportiva.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Estadistica deportiva\bin\Debug\net6.0\JugadorEquipo.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Estadistica deportiva\bin\Debug\net6.0\JugadorEquipo.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Estadistica deportiva\obj\Debug\net6.0\Estadistica deportiva.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Estadistica deportiva\obj\Debug\net6.0\Estadistica deportiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\Estadistica deportiva\obj\Debug\net6.0\Estadistica deportiva.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Estadistica deportiva\obj\Debug\net6.0\Estadistica deportiva.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\Estadistica deportiva\obj\Debug\net6.0\Estadistica deportiva.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Estadistica deportiva\obj\Debug\net6.0\Estadistica deportiva.csproj.CopyComplete
+C:\Users\fabellaiva\source\repos\Ejercicios\Estadistica deportiva\obj\Debug\net6.0\Estadistica deportiva.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Estadistica deportiva\obj\Debug\net6.0\refint\Estadistica deportiva.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Estadistica deportiva\obj\Debug\net6.0\Estadistica deportiva.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Estadistica deportiva\obj\Debug\net6.0\Estadistica deportiva.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Estadistica deportiva\obj\Debug\net6.0\ref\Estadistica deportiva.dll

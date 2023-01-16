@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Puesto de atención/1.0.0": {
+        "dependencies": {
+          "Encapsulamiento": "1.0.0"
+        },
+        "runtime": {
+          "Puesto de atención.dll": {}
+        }
+      },
+      "Encapsulamiento/1.0.0": {
+        "runtime": {
+          "Encapsulamiento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Puesto de atención/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Encapsulamiento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

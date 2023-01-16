@@ -1,0 +1,5 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I02 - Contabilidad\obj\Debug\net6.0\Ejercicio I02 - Contabilidad.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I02 - Contabilidad\obj\Debug\net6.0\Ejercicio I02 - Contabilidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I02 - Contabilidad\obj\Debug\net6.0\Ejercicio I02 - Contabilidad.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I02 - Contabilidad\obj\Debug\net6.0\Ejercicio I02 - Contabilidad.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I02 - Contabilidad\obj\Debug\net6.0\Ejercicio I02 - Contabilidad.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\ConsolaSQL\obj\Debug\net6.0\ConsolaSQL.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ConsolaSQL\obj\Debug\net6.0\ConsolaSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\ConsolaSQL\obj\Debug\net6.0\ConsolaSQL.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ConsolaSQL\obj\Debug\net6.0\ConsolaSQL.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\ConsolaSQL\obj\Debug\net6.0\ConsolaSQL.csproj.CoreCompileInputs.cache

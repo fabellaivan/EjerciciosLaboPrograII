@@ -34,8 +34,9 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.cargarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cargarNuevoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.mostrarNombreAp = new System.Windows.Forms.RichTextBox();
             this.verToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mostrarNombreAp = new System.Windows.Forms.RichTextBox();
+            this.cargarToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -82,7 +83,8 @@
             // cargarToolStripMenuItem
             // 
             this.cargarToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.cargarNuevoToolStripMenuItem});
+            this.cargarNuevoToolStripMenuItem,
+            this.cargarToolStripMenuItem1});
             this.cargarToolStripMenuItem.Name = "cargarToolStripMenuItem";
             this.cargarToolStripMenuItem.Size = new System.Drawing.Size(54, 20);
             this.cargarToolStripMenuItem.Text = "Cargar";
@@ -94,6 +96,13 @@
             this.cargarNuevoToolStripMenuItem.Text = "Cargar nuevo";
             this.cargarNuevoToolStripMenuItem.Click += new System.EventHandler(this.cargarNuevoToolStripMenuItem_Click);
             // 
+            // verToolStripMenuItem
+            // 
+            this.verToolStripMenuItem.Name = "verToolStripMenuItem";
+            this.verToolStripMenuItem.Size = new System.Drawing.Size(35, 20);
+            this.verToolStripMenuItem.Text = "Ver";
+            this.verToolStripMenuItem.Click += new System.EventHandler(this.verToolStripMenuItem_Click);
+            // 
             // mostrarNombreAp
             // 
             this.mostrarNombreAp.BackColor = System.Drawing.SystemColors.ScrollBar;
@@ -103,12 +112,11 @@
             this.mostrarNombreAp.TabIndex = 4;
             this.mostrarNombreAp.Text = "";
             // 
-            // verToolStripMenuItem
+            // cargarToolStripMenuItem1
             // 
-            this.verToolStripMenuItem.Name = "verToolStripMenuItem";
-            this.verToolStripMenuItem.Size = new System.Drawing.Size(35, 20);
-            this.verToolStripMenuItem.Text = "Ver";
-            this.verToolStripMenuItem.Click += new System.EventHandler(this.verToolStripMenuItem_Click);
+            this.cargarToolStripMenuItem1.Name = "cargarToolStripMenuItem1";
+            this.cargarToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.cargarToolStripMenuItem1.Text = "Cargar";
             // 
             // Form1
             // 
@@ -140,5 +148,6 @@
         private ToolStripMenuItem cargarNuevoToolStripMenuItem;
         private ToolStripMenuItem verToolStripMenuItem;
         private RichTextBox mostrarNombreAp;
+        private ToolStripMenuItem cargarToolStripMenuItem1;
     }
 }

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cartuchera/1.0.0": {
+        "dependencies": {
+          "CartucheraLibl": "1.0.0"
+        },
+        "runtime": {
+          "Cartuchera.dll": {}
+        }
+      },
+      "CartucheraLibl/1.0.0": {
+        "runtime": {
+          "CartucheraLibl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cartuchera/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CartucheraLibl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

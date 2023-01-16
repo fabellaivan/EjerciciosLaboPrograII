@@ -20,11 +20,12 @@ namespace Encapsulamiento
         public int Numero
         {
             get { return _numero; }
+            set { _numero = value; }
         }
 
-        public  Cliente(int num)
+        public  Cliente(int numero)
         {
-            _numero = num;
+            Numero = numero;
         }
 
         public Cliente(int numero, string nombre) : this(numero)

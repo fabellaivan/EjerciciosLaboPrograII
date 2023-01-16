@@ -1,0 +1,17 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\NotePad\bin\Debug\net6.0-windows\NotePad.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\NotePad\bin\Debug\net6.0-windows\NotePad.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\NotePad\bin\Debug\net6.0-windows\NotePad.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\NotePad\bin\Debug\net6.0-windows\NotePad.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\NotePad\bin\Debug\net6.0-windows\NotePad.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\NotePad\obj\Debug\net6.0-windows\NotePad.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\NotePad\obj\Debug\net6.0-windows\NotePad.csproj.GenerateResource.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\NotePad\obj\Debug\net6.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\NotePad\obj\Debug\net6.0-windows\NotePad.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\NotePad\obj\Debug\net6.0-windows\NotePad.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\NotePad\obj\Debug\net6.0-windows\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\NotePad\obj\Debug\net6.0-windows\NotePad.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\NotePad\obj\Debug\net6.0-windows\refint\NotePad.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\NotePad\obj\Debug\net6.0-windows\NotePad.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\NotePad\obj\Debug\net6.0-windows\NotePad.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\NotePad\obj\Debug\net6.0-windows\ref\NotePad.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\NotePad\obj\Debug\net6.0-windows\NotePad.NotePad.resources

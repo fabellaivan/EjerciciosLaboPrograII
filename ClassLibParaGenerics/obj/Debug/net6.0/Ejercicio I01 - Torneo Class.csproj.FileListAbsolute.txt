@@ -1,0 +1,12 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\ClassLibParaGenerics\bin\Debug\net6.0\Ejercicio I01 - Torneo Class.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\ClassLibParaGenerics\bin\Debug\net6.0\Ejercicio I01 - Torneo Class.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\ClassLibParaGenerics\bin\Debug\net6.0\Ejercicio I01 - Torneo Class.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\ClassLibParaGenerics\obj\Debug\net6.0\Ejercicio I01 - Torneo Class.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ClassLibParaGenerics\obj\Debug\net6.0\Ejercicio I01 - Torneo Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\ClassLibParaGenerics\obj\Debug\net6.0\Ejercicio I01 - Torneo Class.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ClassLibParaGenerics\obj\Debug\net6.0\Ejercicio I01 - Torneo Class.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\ClassLibParaGenerics\obj\Debug\net6.0\Ejercicio I01 - Torneo Class.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ClassLibParaGenerics\obj\Debug\net6.0\Ejercicio I01 - Torneo Class.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\ClassLibParaGenerics\obj\Debug\net6.0\refint\Ejercicio I01 - Torneo Class.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\ClassLibParaGenerics\obj\Debug\net6.0\Ejercicio I01 - Torneo Class.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\ClassLibParaGenerics\obj\Debug\net6.0\ref\Ejercicio I01 - Torneo Class.dll

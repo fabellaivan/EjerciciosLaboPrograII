@@ -1,0 +1,5 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\AplicacionDeTransportes\obj\Debug\net6.0\AplicacionDeTransportes.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\AplicacionDeTransportes\obj\Debug\net6.0\AplicacionDeTransportes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\AplicacionDeTransportes\obj\Debug\net6.0\AplicacionDeTransportes.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\AplicacionDeTransportes\obj\Debug\net6.0\AplicacionDeTransportes.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\AplicacionDeTransportes\obj\Debug\net6.0\AplicacionDeTransportes.csproj.CoreCompileInputs.cache

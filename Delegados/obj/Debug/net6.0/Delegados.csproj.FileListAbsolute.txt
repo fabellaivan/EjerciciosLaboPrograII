@@ -1,0 +1,15 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\Delegados\bin\Debug\net6.0\Delegados.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\Delegados\bin\Debug\net6.0\Delegados.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Delegados\bin\Debug\net6.0\Delegados.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Delegados\bin\Debug\net6.0\Delegados.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Delegados\bin\Debug\net6.0\Delegados.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Delegados\obj\Debug\net6.0\Delegados.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Delegados\obj\Debug\net6.0\Delegados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\Delegados\obj\Debug\net6.0\Delegados.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Delegados\obj\Debug\net6.0\Delegados.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\Delegados\obj\Debug\net6.0\Delegados.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Delegados\obj\Debug\net6.0\Delegados.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Delegados\obj\Debug\net6.0\refint\Delegados.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Delegados\obj\Debug\net6.0\Delegados.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Delegados\obj\Debug\net6.0\Delegados.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Delegados\obj\Debug\net6.0\ref\Delegados.dll

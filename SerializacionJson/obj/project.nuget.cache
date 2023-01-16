@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rwNG3NJLnr7xZffUAOe2iBUNvFYRVM+8VLE97iCPVHV+Zr8NnCltuCb0Qt1r2jDXaITiKyUBQNuEopn2L/cUag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabellaiva\\source\\repos\\Ejercicios\\SerializacionJson\\SerializacionJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabellaiva\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\fabellaiva\\.nuget\\packages\\servicestack.text\\6.4.0\\servicestack.text.6.4.0.nupkg.sha512",
+    "C:\\Users\\fabellaiva\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\fabellaiva\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\fabellaiva\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

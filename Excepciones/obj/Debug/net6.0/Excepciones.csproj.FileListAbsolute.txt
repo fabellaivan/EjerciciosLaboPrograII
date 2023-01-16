@@ -1,0 +1,12 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\Excepciones\bin\Debug\net6.0\Excepciones.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Excepciones\bin\Debug\net6.0\Excepciones.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Excepciones\bin\Debug\net6.0\Excepciones.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Excepciones\obj\Debug\net6.0\Excepciones.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Excepciones\obj\Debug\net6.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\Excepciones\obj\Debug\net6.0\Excepciones.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Excepciones\obj\Debug\net6.0\Excepciones.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\Excepciones\obj\Debug\net6.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Excepciones\obj\Debug\net6.0\Excepciones.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Excepciones\obj\Debug\net6.0\refint\Excepciones.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Excepciones\obj\Debug\net6.0\Excepciones.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Excepciones\obj\Debug\net6.0\ref\Excepciones.dll

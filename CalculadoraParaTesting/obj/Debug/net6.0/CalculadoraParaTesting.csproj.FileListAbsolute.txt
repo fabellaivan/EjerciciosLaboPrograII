@@ -1,0 +1,15 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\CalculadoraParaTesting\bin\Debug\net6.0\CalculadoraParaTesting.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\CalculadoraParaTesting\bin\Debug\net6.0\CalculadoraParaTesting.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\CalculadoraParaTesting\bin\Debug\net6.0\CalculadoraParaTesting.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\CalculadoraParaTesting\bin\Debug\net6.0\CalculadoraParaTesting.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\CalculadoraParaTesting\bin\Debug\net6.0\CalculadoraParaTesting.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\CalculadoraParaTesting\obj\Debug\net6.0\CalculadoraParaTesting.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\CalculadoraParaTesting\obj\Debug\net6.0\CalculadoraParaTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\CalculadoraParaTesting\obj\Debug\net6.0\CalculadoraParaTesting.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\CalculadoraParaTesting\obj\Debug\net6.0\CalculadoraParaTesting.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\CalculadoraParaTesting\obj\Debug\net6.0\CalculadoraParaTesting.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\CalculadoraParaTesting\obj\Debug\net6.0\CalculadoraParaTesting.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\CalculadoraParaTesting\obj\Debug\net6.0\refint\CalculadoraParaTesting.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\CalculadoraParaTesting\obj\Debug\net6.0\CalculadoraParaTesting.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\CalculadoraParaTesting\obj\Debug\net6.0\CalculadoraParaTesting.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\CalculadoraParaTesting\obj\Debug\net6.0\ref\CalculadoraParaTesting.dll

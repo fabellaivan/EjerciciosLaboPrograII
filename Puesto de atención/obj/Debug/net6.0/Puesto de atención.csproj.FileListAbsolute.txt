@@ -1,0 +1,18 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\Puesto de atención\bin\Debug\net6.0\Puesto de atención.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\Puesto de atención\bin\Debug\net6.0\Puesto de atención.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Puesto de atención\bin\Debug\net6.0\Puesto de atención.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Puesto de atención\bin\Debug\net6.0\Puesto de atención.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Puesto de atención\bin\Debug\net6.0\Puesto de atención.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Puesto de atención\bin\Debug\net6.0\Encapsulamiento.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Puesto de atención\bin\Debug\net6.0\Encapsulamiento.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Puesto de atención\obj\Debug\net6.0\Puesto de atención.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Puesto de atención\obj\Debug\net6.0\Puesto de atención.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\Puesto de atención\obj\Debug\net6.0\Puesto de atención.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Puesto de atención\obj\Debug\net6.0\Puesto de atención.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\Puesto de atención\obj\Debug\net6.0\Puesto de atención.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Puesto de atención\obj\Debug\net6.0\Puesto de atención.csproj.CopyComplete
+C:\Users\fabellaiva\source\repos\Ejercicios\Puesto de atención\obj\Debug\net6.0\Puesto de atención.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Puesto de atención\obj\Debug\net6.0\refint\Puesto de atención.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Puesto de atención\obj\Debug\net6.0\Puesto de atención.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Puesto de atención\obj\Debug\net6.0\Puesto de atención.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Puesto de atención\obj\Debug\net6.0\ref\Puesto de atención.dll

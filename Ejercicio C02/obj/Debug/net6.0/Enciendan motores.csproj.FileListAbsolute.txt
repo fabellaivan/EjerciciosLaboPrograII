@@ -1,0 +1,18 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02\bin\Debug\net6.0\Enciendan motores.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02\bin\Debug\net6.0\Enciendan motores.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02\bin\Debug\net6.0\Enciendan motores.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02\bin\Debug\net6.0\Enciendan motores.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02\bin\Debug\net6.0\Enciendan motores.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02\bin\Debug\net6.0\Formula1.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02\bin\Debug\net6.0\Formula1.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02\obj\Debug\net6.0\Enciendan motores.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02\obj\Debug\net6.0\Enciendan motores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02\obj\Debug\net6.0\Enciendan motores.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02\obj\Debug\net6.0\Enciendan motores.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02\obj\Debug\net6.0\Enciendan motores.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02\obj\Debug\net6.0\Enciendan motores.csproj.CopyComplete
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02\obj\Debug\net6.0\Enciendan motores.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02\obj\Debug\net6.0\refint\Enciendan motores.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02\obj\Debug\net6.0\Enciendan motores.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02\obj\Debug\net6.0\Enciendan motores.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio C02\obj\Debug\net6.0\ref\Enciendan motores.dll

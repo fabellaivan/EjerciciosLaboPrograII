@@ -1,0 +1,15 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializadorXmlConHerencia\bin\Debug\net6.0\SerializadorXmlConHerencia.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializadorXmlConHerencia\bin\Debug\net6.0\SerializadorXmlConHerencia.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializadorXmlConHerencia\bin\Debug\net6.0\SerializadorXmlConHerencia.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializadorXmlConHerencia\bin\Debug\net6.0\SerializadorXmlConHerencia.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializadorXmlConHerencia\bin\Debug\net6.0\SerializadorXmlConHerencia.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializadorXmlConHerencia\obj\Debug\net6.0\SerializadorXmlConHerencia.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializadorXmlConHerencia\obj\Debug\net6.0\SerializadorXmlConHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializadorXmlConHerencia\obj\Debug\net6.0\SerializadorXmlConHerencia.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializadorXmlConHerencia\obj\Debug\net6.0\SerializadorXmlConHerencia.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializadorXmlConHerencia\obj\Debug\net6.0\SerializadorXmlConHerencia.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializadorXmlConHerencia\obj\Debug\net6.0\SerializadorXmlConHerencia.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializadorXmlConHerencia\obj\Debug\net6.0\refint\SerializadorXmlConHerencia.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializadorXmlConHerencia\obj\Debug\net6.0\SerializadorXmlConHerencia.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializadorXmlConHerencia\obj\Debug\net6.0\SerializadorXmlConHerencia.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializadorXmlConHerencia\obj\Debug\net6.0\ref\SerializadorXmlConHerencia.dll

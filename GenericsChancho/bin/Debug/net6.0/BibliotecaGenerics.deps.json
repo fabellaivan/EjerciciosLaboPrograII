@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BibliotecaGenerics/1.0.0": {
+        "runtime": {
+          "BibliotecaGenerics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliotecaGenerics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

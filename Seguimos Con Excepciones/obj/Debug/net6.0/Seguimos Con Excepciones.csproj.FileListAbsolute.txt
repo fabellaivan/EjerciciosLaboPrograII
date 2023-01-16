@@ -1,0 +1,15 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\Seguimos Con Excepciones\bin\Debug\net6.0\Seguimos Con Excepciones.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\Seguimos Con Excepciones\bin\Debug\net6.0\Seguimos Con Excepciones.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Seguimos Con Excepciones\bin\Debug\net6.0\Seguimos Con Excepciones.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Seguimos Con Excepciones\bin\Debug\net6.0\Seguimos Con Excepciones.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Seguimos Con Excepciones\bin\Debug\net6.0\Seguimos Con Excepciones.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Seguimos Con Excepciones\obj\Debug\net6.0\Seguimos Con Excepciones.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Seguimos Con Excepciones\obj\Debug\net6.0\Seguimos Con Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\Seguimos Con Excepciones\obj\Debug\net6.0\Seguimos Con Excepciones.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Seguimos Con Excepciones\obj\Debug\net6.0\Seguimos Con Excepciones.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\Seguimos Con Excepciones\obj\Debug\net6.0\Seguimos Con Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Seguimos Con Excepciones\obj\Debug\net6.0\Seguimos Con Excepciones.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Seguimos Con Excepciones\obj\Debug\net6.0\refint\Seguimos Con Excepciones.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Seguimos Con Excepciones\obj\Debug\net6.0\Seguimos Con Excepciones.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Seguimos Con Excepciones\obj\Debug\net6.0\Seguimos Con Excepciones.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Seguimos Con Excepciones\obj\Debug\net6.0\ref\Seguimos Con Excepciones.dll

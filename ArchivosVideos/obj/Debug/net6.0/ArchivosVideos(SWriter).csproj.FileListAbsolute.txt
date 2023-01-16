@@ -1,0 +1,15 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosVideos\bin\Debug\net6.0\ArchivosVideos(SWriter).exe
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosVideos\bin\Debug\net6.0\ArchivosVideos(SWriter).deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosVideos\bin\Debug\net6.0\ArchivosVideos(SWriter).runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosVideos\bin\Debug\net6.0\ArchivosVideos(SWriter).dll
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosVideos\bin\Debug\net6.0\ArchivosVideos(SWriter).pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosVideos\obj\Debug\net6.0\ArchivosVideos(SWriter).csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosVideos\obj\Debug\net6.0\ArchivosVideos(SWriter).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosVideos\obj\Debug\net6.0\ArchivosVideos(SWriter).AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosVideos\obj\Debug\net6.0\ArchivosVideos(SWriter).AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosVideos\obj\Debug\net6.0\ArchivosVideos(SWriter).csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosVideos\obj\Debug\net6.0\ArchivosVideos(SWriter).dll
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosVideos\obj\Debug\net6.0\refint\ArchivosVideos(SWriter).dll
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosVideos\obj\Debug\net6.0\ArchivosVideos(SWriter).pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosVideos\obj\Debug\net6.0\ArchivosVideos(SWriter).genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ArchivosVideos\obj\Debug\net6.0\ref\ArchivosVideos(SWriter).dll

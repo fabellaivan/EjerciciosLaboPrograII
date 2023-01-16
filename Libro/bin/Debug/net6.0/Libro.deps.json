@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Libro/1.0.0": {
+        "dependencies": {
+          "ParaLibro": "1.0.0"
+        },
+        "runtime": {
+          "Libro.dll": {}
+        }
+      },
+      "ParaLibro/1.0.0": {
+        "runtime": {
+          "ParaLibro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Libro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParaLibro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

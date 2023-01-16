@@ -1,0 +1,15 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorString\bin\Debug\net6.0\ContadorString.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorString\bin\Debug\net6.0\ContadorString.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorString\bin\Debug\net6.0\ContadorString.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorString\bin\Debug\net6.0\ContadorString.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorString\bin\Debug\net6.0\ContadorString.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorString\obj\Debug\net6.0\ContadorString.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorString\obj\Debug\net6.0\ContadorString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorString\obj\Debug\net6.0\ContadorString.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorString\obj\Debug\net6.0\ContadorString.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorString\obj\Debug\net6.0\ContadorString.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorString\obj\Debug\net6.0\ContadorString.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorString\obj\Debug\net6.0\refint\ContadorString.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorString\obj\Debug\net6.0\ContadorString.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorString\obj\Debug\net6.0\ContadorString.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\ContadorString\obj\Debug\net6.0\ref\ContadorString.dll

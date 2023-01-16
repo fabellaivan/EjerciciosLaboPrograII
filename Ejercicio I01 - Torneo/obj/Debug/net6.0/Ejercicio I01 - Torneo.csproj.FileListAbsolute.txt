@@ -1,0 +1,18 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I01 - Torneo\bin\Debug\net6.0\Ejercicio I01 - Torneo.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I01 - Torneo\bin\Debug\net6.0\Ejercicio I01 - Torneo.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I01 - Torneo\bin\Debug\net6.0\Ejercicio I01 - Torneo.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I01 - Torneo\bin\Debug\net6.0\Ejercicio I01 - Torneo.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I01 - Torneo\bin\Debug\net6.0\Ejercicio I01 - Torneo.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I01 - Torneo\obj\Debug\net6.0\Ejercicio I01 - Torneo.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I01 - Torneo\obj\Debug\net6.0\Ejercicio I01 - Torneo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I01 - Torneo\obj\Debug\net6.0\Ejercicio I01 - Torneo.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I01 - Torneo\obj\Debug\net6.0\Ejercicio I01 - Torneo.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I01 - Torneo\obj\Debug\net6.0\Ejercicio I01 - Torneo.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I01 - Torneo\obj\Debug\net6.0\Ejercicio I01 - Torneo.csproj.CopyComplete
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I01 - Torneo\obj\Debug\net6.0\Ejercicio I01 - Torneo.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I01 - Torneo\obj\Debug\net6.0\refint\Ejercicio I01 - Torneo.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I01 - Torneo\obj\Debug\net6.0\Ejercicio I01 - Torneo.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I01 - Torneo\obj\Debug\net6.0\Ejercicio I01 - Torneo.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I01 - Torneo\obj\Debug\net6.0\ref\Ejercicio I01 - Torneo.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I01 - Torneo\bin\Debug\net6.0\Ejercicio I01 - Torneo Class.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejercicio I01 - Torneo\bin\Debug\net6.0\Ejercicio I01 - Torneo Class.pdb

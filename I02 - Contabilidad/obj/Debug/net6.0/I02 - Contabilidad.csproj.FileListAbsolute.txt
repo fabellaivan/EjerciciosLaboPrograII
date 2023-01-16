@@ -1,0 +1,18 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\I02 - Contabilidad\bin\Debug\net6.0\I02 - Contabilidad.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\I02 - Contabilidad\bin\Debug\net6.0\I02 - Contabilidad.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\I02 - Contabilidad\bin\Debug\net6.0\I02 - Contabilidad.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\I02 - Contabilidad\bin\Debug\net6.0\I02 - Contabilidad.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\I02 - Contabilidad\bin\Debug\net6.0\I02 - Contabilidad.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\I02 - Contabilidad\bin\Debug\net6.0\ContabilidadClassLib.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\I02 - Contabilidad\bin\Debug\net6.0\ContabilidadClassLib.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\I02 - Contabilidad\obj\Debug\net6.0\I02 - Contabilidad.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\I02 - Contabilidad\obj\Debug\net6.0\I02 - Contabilidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\I02 - Contabilidad\obj\Debug\net6.0\I02 - Contabilidad.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\I02 - Contabilidad\obj\Debug\net6.0\I02 - Contabilidad.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\I02 - Contabilidad\obj\Debug\net6.0\I02 - Contabilidad.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\I02 - Contabilidad\obj\Debug\net6.0\I02 - Contabilidad.csproj.CopyComplete
+C:\Users\fabellaiva\source\repos\Ejercicios\I02 - Contabilidad\obj\Debug\net6.0\I02 - Contabilidad.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\I02 - Contabilidad\obj\Debug\net6.0\refint\I02 - Contabilidad.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\I02 - Contabilidad\obj\Debug\net6.0\I02 - Contabilidad.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\I02 - Contabilidad\obj\Debug\net6.0\I02 - Contabilidad.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\I02 - Contabilidad\obj\Debug\net6.0\ref\I02 - Contabilidad.dll

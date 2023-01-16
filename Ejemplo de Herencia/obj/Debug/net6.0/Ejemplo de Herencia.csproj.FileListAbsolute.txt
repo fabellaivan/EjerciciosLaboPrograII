@@ -1,0 +1,15 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejemplo de Herencia\bin\Debug\net6.0\Ejemplo de Herencia.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejemplo de Herencia\bin\Debug\net6.0\Ejemplo de Herencia.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejemplo de Herencia\bin\Debug\net6.0\Ejemplo de Herencia.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejemplo de Herencia\bin\Debug\net6.0\Ejemplo de Herencia.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejemplo de Herencia\bin\Debug\net6.0\Ejemplo de Herencia.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejemplo de Herencia\obj\Debug\net6.0\Ejemplo de Herencia.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejemplo de Herencia\obj\Debug\net6.0\Ejemplo de Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejemplo de Herencia\obj\Debug\net6.0\Ejemplo de Herencia.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejemplo de Herencia\obj\Debug\net6.0\Ejemplo de Herencia.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejemplo de Herencia\obj\Debug\net6.0\Ejemplo de Herencia.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejemplo de Herencia\obj\Debug\net6.0\Ejemplo de Herencia.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejemplo de Herencia\obj\Debug\net6.0\refint\Ejemplo de Herencia.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejemplo de Herencia\obj\Debug\net6.0\Ejemplo de Herencia.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejemplo de Herencia\obj\Debug\net6.0\Ejemplo de Herencia.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\Ejemplo de Herencia\obj\Debug\net6.0\ref\Ejemplo de Herencia.dll

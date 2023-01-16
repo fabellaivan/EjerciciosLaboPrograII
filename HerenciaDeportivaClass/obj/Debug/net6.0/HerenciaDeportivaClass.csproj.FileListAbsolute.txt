@@ -1,0 +1,12 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\HerenciaDeportivaClass\bin\Debug\net6.0\HerenciaDeportivaClass.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\HerenciaDeportivaClass\bin\Debug\net6.0\HerenciaDeportivaClass.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\HerenciaDeportivaClass\bin\Debug\net6.0\HerenciaDeportivaClass.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\HerenciaDeportivaClass\obj\Debug\net6.0\HerenciaDeportivaClass.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\HerenciaDeportivaClass\obj\Debug\net6.0\HerenciaDeportivaClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\HerenciaDeportivaClass\obj\Debug\net6.0\HerenciaDeportivaClass.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\HerenciaDeportivaClass\obj\Debug\net6.0\HerenciaDeportivaClass.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\HerenciaDeportivaClass\obj\Debug\net6.0\HerenciaDeportivaClass.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\HerenciaDeportivaClass\obj\Debug\net6.0\HerenciaDeportivaClass.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\HerenciaDeportivaClass\obj\Debug\net6.0\refint\HerenciaDeportivaClass.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\HerenciaDeportivaClass\obj\Debug\net6.0\HerenciaDeportivaClass.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\HerenciaDeportivaClass\obj\Debug\net6.0\ref\HerenciaDeportivaClass.dll

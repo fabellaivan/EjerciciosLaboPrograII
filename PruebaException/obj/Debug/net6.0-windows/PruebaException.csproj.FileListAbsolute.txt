@@ -1,0 +1,17 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\PruebaException\bin\Debug\net6.0-windows\PruebaException.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\PruebaException\bin\Debug\net6.0-windows\PruebaException.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\PruebaException\bin\Debug\net6.0-windows\PruebaException.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\PruebaException\bin\Debug\net6.0-windows\PruebaException.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\PruebaException\bin\Debug\net6.0-windows\PruebaException.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\PruebaException\obj\Debug\net6.0-windows\PruebaException.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\PruebaException\obj\Debug\net6.0-windows\PruebaException.Form1.resources
+C:\Users\fabellaiva\source\repos\Ejercicios\PruebaException\obj\Debug\net6.0-windows\PruebaException.csproj.GenerateResource.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\PruebaException\obj\Debug\net6.0-windows\PruebaException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\PruebaException\obj\Debug\net6.0-windows\PruebaException.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\PruebaException\obj\Debug\net6.0-windows\PruebaException.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\PruebaException\obj\Debug\net6.0-windows\PruebaException.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\PruebaException\obj\Debug\net6.0-windows\PruebaException.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\PruebaException\obj\Debug\net6.0-windows\refint\PruebaException.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\PruebaException\obj\Debug\net6.0-windows\PruebaException.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\PruebaException\obj\Debug\net6.0-windows\PruebaException.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\PruebaException\obj\Debug\net6.0-windows\ref\PruebaException.dll

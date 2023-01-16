@@ -1,0 +1,15 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializacionXml\bin\Debug\net6.0\SerializacionXml.exe
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializacionXml\bin\Debug\net6.0\SerializacionXml.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializacionXml\bin\Debug\net6.0\SerializacionXml.runtimeconfig.json
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializacionXml\bin\Debug\net6.0\SerializacionXml.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializacionXml\bin\Debug\net6.0\SerializacionXml.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializacionXml\obj\Debug\net6.0\SerializacionXml.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializacionXml\obj\Debug\net6.0\SerializacionXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializacionXml\obj\Debug\net6.0\SerializacionXml.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializacionXml\obj\Debug\net6.0\SerializacionXml.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializacionXml\obj\Debug\net6.0\SerializacionXml.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializacionXml\obj\Debug\net6.0\SerializacionXml.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializacionXml\obj\Debug\net6.0\refint\SerializacionXml.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializacionXml\obj\Debug\net6.0\SerializacionXml.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializacionXml\obj\Debug\net6.0\SerializacionXml.genruntimeconfig.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\SerializacionXml\obj\Debug\net6.0\ref\SerializacionXml.dll

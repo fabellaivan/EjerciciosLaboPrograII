@@ -1,0 +1,12 @@
+C:\Users\fabellaiva\source\repos\Ejercicios\BibliotecaExcepciones\bin\Debug\net6.0\BibliotecaExcepciones.deps.json
+C:\Users\fabellaiva\source\repos\Ejercicios\BibliotecaExcepciones\bin\Debug\net6.0\BibliotecaExcepciones.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\BibliotecaExcepciones\bin\Debug\net6.0\BibliotecaExcepciones.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\BibliotecaExcepciones\obj\Debug\net6.0\BibliotecaExcepciones.csproj.AssemblyReference.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\BibliotecaExcepciones\obj\Debug\net6.0\BibliotecaExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabellaiva\source\repos\Ejercicios\BibliotecaExcepciones\obj\Debug\net6.0\BibliotecaExcepciones.AssemblyInfoInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\BibliotecaExcepciones\obj\Debug\net6.0\BibliotecaExcepciones.AssemblyInfo.cs
+C:\Users\fabellaiva\source\repos\Ejercicios\BibliotecaExcepciones\obj\Debug\net6.0\BibliotecaExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\fabellaiva\source\repos\Ejercicios\BibliotecaExcepciones\obj\Debug\net6.0\BibliotecaExcepciones.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\BibliotecaExcepciones\obj\Debug\net6.0\refint\BibliotecaExcepciones.dll
+C:\Users\fabellaiva\source\repos\Ejercicios\BibliotecaExcepciones\obj\Debug\net6.0\BibliotecaExcepciones.pdb
+C:\Users\fabellaiva\source\repos\Ejercicios\BibliotecaExcepciones\obj\Debug\net6.0\ref\BibliotecaExcepciones.dll

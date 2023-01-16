@@ -39,7 +39,7 @@
             this.rchTextIn.Size = new System.Drawing.Size(353, 72);
             this.rchTextIn.TabIndex = 0;
             this.rchTextIn.Text = "";
-        
+            this.rchTextIn.TextChanged += new System.EventHandler(this.rchTextIn_TextChanged);
             // 
             // btnCargar
             // 

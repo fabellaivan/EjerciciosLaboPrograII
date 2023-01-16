@@ -16,14 +16,18 @@ namespace Encapsulamiento
         private static int numeroActual;
         private Puesto puesto;
 
+        public static int NumeroActual
+        {
+            get { return ++numeroActual; }
+        }
         static PuestoAtencion()
         {
             PuestoAtencion.numeroActual = 0;
         }
-       
-        public PuestoAtencion(Puesto puesto)
+
+        public PuestoAtencion(Puesto puestoIn)
         {
-            this.puesto = puesto;
+            puesto = puestoIn;
         }
         public bool Atender(Cliente cl)
         {
